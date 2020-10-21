@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>images - 2020-10-18T150051.874.jpg</filename>
+	<path>C:\Users\User\Desktop\Object_detection_tutorial1\Cups\Images\train\images - 2020-10-18T150051.874.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>11</ymin>
+			<xmax>155</xmax>
+			<ymax>100</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>61</ymin>
+			<xmax>293</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+</annotation>

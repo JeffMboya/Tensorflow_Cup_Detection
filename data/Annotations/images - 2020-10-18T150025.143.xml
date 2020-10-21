@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cup images - Tafuta na Google</folder>
+	<filename>images - 2020-10-18T150025.143.jpg</filename>
+	<path>C:\Users\User\Desktop\Object_detection_tutorial1\Cups\Images\Test\cup images - Tafuta na Google\images - 2020-10-18T150025.143.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>33</ymin>
+			<xmax>196</xmax>
+			<ymax>114</ymax>
+		</bndbox>
+	</object>
+</annotation>
