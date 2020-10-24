@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cup images - Tafuta na Google</folder>
+	<filename>cup (22).jpg</filename>
+	<path>C:\Users\User\Downloads\cup images - Tafuta na Google\cup (22).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>258</width>
+		<height>195</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>23</ymin>
+			<xmax>211</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+</annotation>
