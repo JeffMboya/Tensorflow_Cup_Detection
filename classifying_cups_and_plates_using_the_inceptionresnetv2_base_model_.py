@@ -161,7 +161,7 @@ model.fit(train_ds, epochs=epochs, callbacks=callback, validation_data=val_ds)
 # Commented out IPython magic to ensure Python compatibility.
 #run prediction on images in the test dataset
  
- img = keras.preprocessing.image.load_img (
+img = keras.preprocessing.image.load_img (
 "/content/Tensorflow_Cup_Detection/test_images/cup (86).jpg", target_size=(image_size,image_size))
  
 img_array = keras.preprocessing.image.img_to_array(img)
