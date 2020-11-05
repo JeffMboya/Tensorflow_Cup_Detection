@@ -1,2 +1,2 @@
-# Tensorflow_Cup_Detection
-A tensorflow model to detect cups in images
+# Tensorflow_Image_Classification
+A tensorflow model to classify cups and plates using transfer learning.
